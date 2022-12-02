@@ -172,3 +172,6 @@
 [tigerspike / gig-economy-back-end / Pull request #138: Feature/MELCGE-1352 Reserve Ticket and Active Tickets Apis — Bitbucket](https://bitbucket.org/tigerspike/gig-economy-back-end/pull-requests/138/feature-melcge-1352-reserve-ticket-and/diff)
 
 [Posts containing 'gear' - Motor Vehicle Maintenance & Repair Stack Exchange](https://mechanics.stackexchange.com/search?q=gear)
+
+## Programming
+### [How to manage HttpClient connections in .NET](https://www.siakabaro.com/how-to-manage-httpclient-connections-in-net)
