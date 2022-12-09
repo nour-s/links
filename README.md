@@ -178,3 +178,4 @@
 
 ## Blender
 [Plask to capture motion using AI](https://plask.ai/) Provides 900 Credits (30 seconds) a day for free.
+[Rokoko Studio for capture motion ](https://www.rokoko.com/products/studio/download)
