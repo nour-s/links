@@ -175,3 +175,6 @@
 
 ## Programming
 ### [How to manage HttpClient connections in .NET](https://www.siakabaro.com/how-to-manage-httpclient-connections-in-net)
+
+## Blender
+[Plask to capture motion using AI](https://plask.ai/) Provides 900 Credits (30 seconds) a day for free.
